@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>teams/ararabots.png</file>
+        <file>teams/carrossel.png</file>
+        <file>teams/defaultblue.png</file>
+        <file>teams/defaultyellow.png</file>
+        <file>teams/furgbot.png</file>
+        <file>teams/ger.png</file>
+        <file>teams/itandroids.png</file>
+        <file>teams/lambesujo.png</file>
+        <file>teams/maracatronics.png</file>
+        <file>teams/neon.png</file>
+        <file>teams/nhao.png</file>
+        <file>teams/pequimecanico.png</file>
+        <file>teams/pinguimbots.png</file>
+        <file>teams/poti.png</file>
+        <file>teams/reddragons.png</file>
+        <file>teams/rinobot.png</file>
+        <file>teams/robocin.png</file>
+        <file>teams/robocinia.png</file>
+        <file>teams/roboime.png</file>
+        <file>teams/robotbulls.png</file>
+        <file>teams/robotech.png</file>
+        <file>teams/rodetas.png</file>
+        <file>teams/thundervolt.png</file>
+        <file>teams/troia.png</file>
+        <file>teams/uaisoccer.png</file>
+        <file>teams/ufrbots.png</file>
+        <file>teams/unball.png</file>
+        <file>teams/utbots.png</file>
+        <file>teams/warthog.png</file>
+        <file>teams/yapira.png</file>
+    </qresource>
+</RCC>

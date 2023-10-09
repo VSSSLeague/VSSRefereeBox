@@ -1,0 +1,27 @@
+{
+	"Network": {
+		"Referee": {
+			"refereeNetworkAddress": "224.5.23.1",
+			"refereeNetworkPort": 10003,
+			"refereeNetworkInterface": "lo"
+		}
+	},
+	
+	"Referee": {
+		"Game":{
+	    		"gameType": "Double Elimination",
+	    		"halfTime": 2.0,
+	    		"betweenHalfTime": 4.0,
+		    	"varsPerTeam": 1,
+		    	"timeoutsPerTeam": 2,
+		    	"timeoutLength": 120.0,
+	    		"overtimeHalfTime": 2.0
+	    	}
+	},
+	
+	"Teams":{
+		"blueTeamName": "Maracatronics",
+		"yellowTeamName": "Warthog",
+		"blueIsLeftSide": true
+	}
+}
